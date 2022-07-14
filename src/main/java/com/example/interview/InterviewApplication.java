@@ -9,10 +9,10 @@ import java.io.IOException;
 public class InterviewApplication {
 
     public static void main(String[] args) throws IOException {
-//        SpringApplication.run(InterviewApplication.class, args);
+        SpringApplication.run(InterviewApplication.class, args);
 //		JasonNodeSolution solution = new JasonNodeSolution();
-        StreamSolution solution = new StreamSolution();
-		solution.testMethod();
+//        StreamSolution solution = new StreamSolution();
+//		solution.testMethod();
     }
 
 
