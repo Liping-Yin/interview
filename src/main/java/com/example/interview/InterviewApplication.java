@@ -10,7 +10,8 @@ public class InterviewApplication {
 
     public static void main(String[] args) throws IOException {
 //        SpringApplication.run(InterviewApplication.class, args);
-		JasonNodeSolution solution = new JasonNodeSolution();
+//		JasonNodeSolution solution = new JasonNodeSolution();
+        StreamSolution solution = new StreamSolution();
 		solution.testMethod();
     }
 
